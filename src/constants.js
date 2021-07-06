@@ -30,4 +30,4 @@ const MIXPANEL_PROPERTIES = [
 
 // API changes based on the PR from @aonic - https://github.com/nithincvpoyyil/mixpanel-tools/pull/3
 
-const MIXPANEL_API_PATTERN = /\/\/(ipv6-)?(api)(-js)?(-eu)?\.mixpanel\.com\/(track|engage)/i;
+const MIXPANEL_API_PATTERN = /\/\/mp\.(staging-[a-z]{2})?(onroad|ornikar)\.(com|to)\/(track|engage)/i;
