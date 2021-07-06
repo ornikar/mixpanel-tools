@@ -1,8 +1,8 @@
 {
-    "name": "Mixpanel Tools",
+    "name": "Ornikar Mixpanel Tools",
     "version": "0.5",
     "description": "A debugger tool helps to intercept mixpanel events and display event properties",
-    "short_name": "mixpanel tools",
+    "short_name": "ornikar mixpanel tools",
     "icons": {
         "16": "./assets/images/logo-16.png",
         "48": "./assets/images/logo-48.png",
